@@ -29,8 +29,8 @@ background: url(Mastercard-Logo);
 position: absolute;
 width: 110px;
 height: 110px;
-left: 150.15px;
-top: 284.15px;
+left: 126.15px;
+top: 265.15px;
 z-index: -1;
 }
 
@@ -129,3 +129,42 @@ line-height: 13px;
 color: #FFFFFF;
 }
 
+.veverka{
+position: absolute;
+width: 296px;
+height: 174px;
+left: 181px;
+top: 161px;
+
+}
+
+.wifi1{
+    position: absolute;
+    width: 17px;
+    height: 3.52px;
+    left: 455.06px;
+    top: 171px; 
+}
+
+.wifi2{
+    position: absolute;
+    width: 11.31px;
+    height: 2.34px;
+    left: 455.23px;
+    top: 171px; 
+}
+
+.wifi3{
+    position: absolute;
+    width: 5.66px;
+    height: 1.17px;
+    left: 455.4px;
+    top: 170.66px; 
+}
+.wifi4{
+    position: absolute;
+    width: 0.01px;
+    height: 0px;
+    left: 455.57px;
+    top: 170.49px; 
+}
